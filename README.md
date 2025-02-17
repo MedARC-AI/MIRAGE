@@ -13,8 +13,8 @@ It should download the Stable Cascade models you need automatically, but if it d
 - effnet_encoder.safetensors
 - previewer.safetensors
 - stage_a.safetensors
-- stage_b.safetensors
-- stage_c.safetensors
+- stage_b_bf16.safetensors
+- stage_c_bf16.safetensors
 
 
 ## Installation
